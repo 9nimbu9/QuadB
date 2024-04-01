@@ -1,2 +1,2 @@
-# QuadB
-QuadB
+# GymForce
+GymForce
